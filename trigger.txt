@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+oceanbase/oceanbase-ce:4.2.1.0 registry.cn-hangzhou.aliyuncs.com/zhaowanle/oceanbase/oceanbase-ce:4.2.1.0
