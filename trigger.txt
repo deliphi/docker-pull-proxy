@@ -1,1 +1,1 @@
-oceanbase/oceanbase-ce:4.2.1 registry.cn-hangzhou.aliyuncs.com/zhaowanle/oceanbase-ce:4.2.1
+oceanbase/oceanbase-ce:4.2.1 registry-hz.rubikstack.com/tools/oceanbase-ce:4.2.1
