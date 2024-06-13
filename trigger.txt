@@ -1,1 +1,1 @@
-oceanbase/oceanbase-ce:4.2.1.0 registry.cn-hangzhou.aliyuncs.com/zhaowanle/oceanbase/oceanbase-ce:4.2.1.0
+oceanbase/oceanbase-ce:4.2.1 registry.cn-hangzhou.aliyuncs.com/zhaowanle/oceanbase/oceanbase-ce:4.2.1
