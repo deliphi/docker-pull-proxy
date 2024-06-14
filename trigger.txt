@@ -1,2 +1,2 @@
-apache/rocketmq:5.2.0 registry-hz.rubikstack.com/middleware/rocketmq:5.2.0
-alibabadragonwell/dragonwell:17-standard-ga-alpine registry-hz.rubikstack.com/middleware/dragonwell:17-alpine
+elasticsearch:7.17.22 registry-hz.rubikstack.com/middleware/elasticsearch:7.17.22
+redis:7.2.5 registry-hz.rubikstack.com/middleware/redis:7.2.5
