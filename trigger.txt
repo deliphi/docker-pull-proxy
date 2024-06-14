@@ -1,1 +1,2 @@
-oceanbase/oceanbase-ce:4.2.1 registry-hz.rubikstack.com/middleware/oceanbase-ce:4.2.1
+apache/rocketmq:5.2.0 registry-hz.rubikstack.com/middleware/rocketmq:5.2.0
+alibabadragonwell/dragonwell:17-standard-ga-alpine registry-hz.rubikstack.com/middleware/dragonwell:17-alpine
