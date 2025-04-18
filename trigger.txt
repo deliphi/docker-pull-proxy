@@ -1,2 +1,2 @@
-elasticsearch:7.17.22 registry-hz.rubikstack.com/middleware/elasticsearch:7.17.22
-redis:7.2.5 registry-hz.rubikstack.com/middleware/redis:7.2.5
+sonarqube:community registry-hz.rubikstack.com/middleware/sonarqube:community
+postgres:17 registry-hz.rubikstack.com/middleware/postgres:17
