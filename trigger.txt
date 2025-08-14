@@ -1,2 +1,1 @@
-sonarqube:community registry-hz.rubikstack.com/middleware/sonarqube:community
-postgres:17 registry-hz.rubikstack.com/middleware/postgres:17
+ ghcr.io/telepresenceio/tel2:2.23.2
