@@ -1,1 +1,1 @@
-telepresenceio/tel2:2.23.2
+rancher/mirrored-kiwigrid-k8s-sidecar:1.19.2
